@@ -11,4 +11,4 @@
 - SQLDeveloper : Oracle DB
 
 ### 🎥 시연영상
-https://drive.google.com/file/d/1pu_J24qXOVbbjfWc6CM8FKNA9OAH6emq/view?usp=drive_link
+- [ 바로가기 ](https://drive.google.com/file/d/1pu_J24qXOVbbjfWc6CM8FKNA9OAH6emq/view?usp=drive_link)
